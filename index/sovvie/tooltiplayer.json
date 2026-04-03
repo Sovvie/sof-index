@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "tooltiplayer",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Overlay tooltip system that renders content in a high-DisplayOrder ScreenGui to avoid clipping by ScrollingFrames and CanvasGroups. Mirrors a subject GuiObject's screen-space rect, tracks position/size changes event-driven, and supports axis-locking and exclusive visibility.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:716f0b067024baac448a58d20f0af7544909ec4be3ed1f16542c3d014702cfae",
+      "artifact": "packages/sovvie/tooltiplayer/1.0.0.tar.gz",
+      "published": "2026-04-03T18:00:31.451Z"
+    }
+  }
+}

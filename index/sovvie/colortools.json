@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "colortools",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Color3 utility module with OkLab color-space conversion and perceptual lerp, plus Darken, Lighten, Invert (hue-shift), Compare (epsilon equality), Map (range-to-hue), and MapSin (sine-based hue) helpers.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:929b6194de8f33e072f4072ff21ec94fbb56803b1f8c9a652178bb84aefa0b1d",
+      "artifact": "packages/sovvie/colortools/1.0.0.tar.gz",
+      "published": "2026-04-03T17:47:58.708Z"
+    }
+  }
+}

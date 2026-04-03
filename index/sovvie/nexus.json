@@ -1,0 +1,21 @@
+{
+  "scope": "sovvie",
+  "name": "nexus",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Service-locator and framework runner for Roblox. Systems are registered via scopes or module lists, executed through init/start lifecycle phases, and published by name for async resolution. Provides a boot report with timing and stall detection.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {
+        "Thread": "sovvie/thread@^1.0.0"
+      },
+      "checksum": "sha256:c1f58cb709b0a0117703fe50be73f3771ae325964a0212ffaf45575f03e5f334",
+      "artifact": "packages/sovvie/nexus/1.0.0.tar.gz",
+      "published": "2026-04-03T18:00:25.063Z"
+    }
+  }
+}

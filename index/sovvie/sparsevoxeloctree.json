@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "sparsevoxeloctree",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Native sparse voxel octree for 3D spatial queries. Supports OBB-accurate part entries, AABB entries, and point entries. Auto-splits leaf nodes into octants, and provides iterator-based ForEntriesInAABB, ForEntriesInRadius, ForEntriesInPart, and ForEntriesAtPosition queries.",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:c2b636c2892c84de1d4178ce1f691d100711737e412bd8cfa0b161adec09c958",
+      "artifact": "packages/sovvie/sparsevoxeloctree/1.0.0.tar.gz",
+      "published": "2026-04-03T10:06:31.529Z"
+    }
+  }
+}

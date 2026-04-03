@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "nexus",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "ReplicatedStorage package: Nexus",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:c9ea8db3e233c2d5b1c32ce7d1cba920b29b1133fa0cdd91632efd812fc1746d",
+      "artifact": "packages/sovvie/nexus/1.0.0.tar.gz",
+      "published": "2026-04-03T09:51:58.162Z"
+    }
+  }
+}

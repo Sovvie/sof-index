@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "tagged",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Ergonomic CollectionService utility with an internal live-cache per tag. Provides first/all/waitFor queries filtered by class, ancestor, descendant, or parent, plus an observe pattern that fires a callback on add and calls the returned cleanup on removal.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:d6b7f84a5da259e69680b3511f4f6768eb29c0435919219f5800c06f6a86948f",
+      "artifact": "packages/sovvie/tagged/1.0.0.tar.gz",
+      "published": "2026-04-03T18:01:19.166Z"
+    }
+  }
+}

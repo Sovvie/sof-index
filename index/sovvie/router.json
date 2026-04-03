@@ -1,0 +1,21 @@
+{
+  "scope": "sovvie",
+  "name": "router",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Hierarchical client-side UI router with push/pop navigation, named routes and components, open/close lifecycle callbacks, reactive Stream properties for current path and params, a per-router key-value store, and nested sub-router trees.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {
+        "Stream": "sovvie/stream@^1.0.0",
+        "Butler": "sovvie/butler@^1.0.0"
+      },
+      "checksum": "sha256:ff3aeb618bb83aa72b0ab6b486a11e4c2489f19b5d00793d66ec1464431ae630",
+      "artifact": "packages/sovvie/router/1.0.0.tar.gz",
+      "published": "2026-04-03T18:00:27.272Z"
+    }
+  }
+}

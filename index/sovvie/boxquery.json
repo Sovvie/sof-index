@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "boxquery",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Spatial hash grid for fast AABB overlap queries. Items are stored in a buffer-backed flat array with CFrame/size bounds and hashed into grid cells; QueryBox returns all payloads whose AABBs overlap the query box with minimal allocations.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:660dc781fa8f60d9037364aa3e5125acf7463dfb340f010478b66870dfbcb150",
+      "artifact": "packages/sovvie/boxquery/1.0.0.tar.gz",
+      "published": "2026-04-03T18:00:59.284Z"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "thread",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Coroutine-pooling task utility wrapping task.spawn/defer/delay with xpcall error propagation. Provides timeout (auto-cancel after N seconds), cancel, and a yields introspection helper for testing whether a function suspends.",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:cf8ad99379dd5e063aaeede61de54b597d2cea90e00926dd7ef8cd3a37eafc80",
+      "artifact": "packages/sovvie/thread/1.0.0.tar.gz",
+      "published": "2026-04-03T17:47:54.119Z"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "emit",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "ReplicatedStorage package: Emit",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:df1f58107ff6b8e226e4e39f901f8c0d0e9c12df3451d956225f7186bc15a9f2",
+      "artifact": "packages/sovvie/emit/1.0.0.tar.gz",
+      "published": "2026-04-03T09:51:52.272Z"
+    }
+  }
+}

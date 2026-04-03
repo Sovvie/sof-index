@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "lodsystem",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Buffer-based LOD system that tracks registered 3D objects' squared distances from the camera at 10 Hz and fires an onChange callback when the LOD level transitions. Distance thresholds scale with the user's graphics quality setting (1–10).",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:e336268cc00ef8e95d9a7ff3533e038246dbfdf3b0948a5aeccdbb3272c16831",
+      "artifact": "packages/sovvie/lodsystem/1.0.0.tar.gz",
+      "published": "2026-04-03T17:48:07.463Z"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "matrixtabletools",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Weighted combination matrix for tracking named-element co-occurrence counts. Supports adding/removing combos by weight, weighted random sampling (GetRandomCombo), total-weight querying, and listing all active combos. Useful for loot tables and weighted group selection.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:4e603166340a425563028ad5b2c25444b711b9a76e20fa38f92b83a30b8f996e",
+      "artifact": "packages/sovvie/matrixtabletools/1.0.0.tar.gz",
+      "published": "2026-04-03T18:01:12.470Z"
+    }
+  }
+}

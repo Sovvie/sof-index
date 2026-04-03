@@ -1,0 +1,21 @@
+{
+  "scope": "sovvie",
+  "name": "moviemaker",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Timeline-based animation sequencer with named keyframes, Create/After/Append/Stagger step builders, looping/yoyo/reverse/seek, per-step and update signals, child movie nesting, tag-based bulk control, template/pool factories, and a stateful enter/exit state machine variant.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {
+        "Butler": "sovvie/butler@^1.0.0",
+        "Signal": "sovvie/signal@^1.0.0"
+      },
+      "checksum": "sha256:4d83129f3c0b189856db1a2f14e366d85b908fb334823187ed57a7cd5267b9ed",
+      "artifact": "packages/sovvie/moviemaker/1.0.0.tar.gz",
+      "published": "2026-04-03T18:00:49.411Z"
+    }
+  }
+}

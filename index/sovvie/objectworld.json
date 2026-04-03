@@ -1,0 +1,25 @@
+{
+  "scope": "sovvie",
+  "name": "objectworld",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "ECS-backed networked object system. Server spawns typed objects with position, properties, tags, and optional FSM state; replicates to clients via distance culling (QuadTree) or whitelists. Clients receive enter/leave view callbacks and per-object property/state/event deltas.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {
+        "b226": "sovvie/b226@^1.0.0",
+        "Signal": "sovvie/signal@^1.0.0",
+        "Thread": "sovvie/thread@^1.0.0",
+        "Butler": "sovvie/butler@^1.0.0",
+        "BufferFSM": "sovvie/bufferfsm@^1.0.0"
+      },
+      "checksum": "sha256:27bf043154c5f723de704b28767e61acf6e06b943149ebdd63d8e3304287f2ec",
+      "artifact": "packages/sovvie/objectworld/1.0.0.tar.gz",
+      "published": "2026-04-03T17:47:41.139Z"
+    }
+  }
+}

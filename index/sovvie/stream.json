@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "stream",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Reactive state library providing mutable Value streams and auto-tracking Computed streams. Supports listen/bind to Roblox instances and tables, Changed/Attribute event hooks, and declarative instance creation with Stream.New.",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:eda487c9cbd0134d87d62f39ca87fcc79c35ee60cb3f540876690c88bef743cc",
+      "artifact": "packages/sovvie/stream/1.0.0.tar.gz",
+      "published": "2026-04-03T18:00:13.172Z"
+    }
+  }
+}

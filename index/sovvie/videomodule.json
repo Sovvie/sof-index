@@ -1,0 +1,21 @@
+{
+  "scope": "sovvie",
+  "name": "videomodule",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Sequenced VideoFrame playback controller managing intro → looping → outro transitions. Handles preloading, black-frame fade tweens, milestone-based loop skipping, and fires IntroEndedSignal/OutroEndedSignal for external coordination.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {
+        "Signal": "sovvie/signal@^1.0.0"
+      },
+      "checksum": "sha256:9bbfc5c2baa4f2348109d8571abb05159c6f01038fee643cc6ce8c268ae39086",
+      "artifact": "packages/sovvie/videomodule/1.0.0.tar.gz",
+      "published": "2026-04-03T17:48:24.908Z"
+    }
+  }
+}

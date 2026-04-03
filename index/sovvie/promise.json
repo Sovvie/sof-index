@@ -1,0 +1,20 @@
+{
+  "scope": "sovvie",
+  "name": "promise",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Lightweight Promise implementation for Luau. Supports andThen, catch, finally, timeout, coroutine-based await/awaitStatus, Promise.all, race, allSettled, delay, and fromEvent with optional predicate filtering.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {
+        "Thread": "sovvie/thread@^1.0.0"
+      },
+      "checksum": "sha256:868753f5d98eaec83422abcf61a33f6b757207a2e7787b809c84414b6dabe98b",
+      "artifact": "packages/sovvie/promise/1.0.0.tar.gz",
+      "published": "2026-04-03T18:01:01.389Z"
+    }
+  }
+}

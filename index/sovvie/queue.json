@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "queue",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Double-buffered message queue that swaps active and inactive lists on Flush, ensuring items added during a flush are processed in the next batch. Supports Add for plain items and Set for keyed sub-table grouping.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:61821864375231c447f04074c860040d046f8351459e3dbef3802c2ad3e87773",
+      "artifact": "packages/sovvie/queue/1.0.0.tar.gz",
+      "published": "2026-04-03T18:01:21.292Z"
+    }
+  }
+}

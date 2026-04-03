@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "b226",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Lightweight Luau entity-component system (ECS). Provides entity and component creation, set/get/add/remove operations, typed queries, and OnAdd/OnChange/OnRemove hook registration per component.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:913b9cf5be276cc9123f76593d6f36dba5fc62319699ee719ac2c2647a58e916",
+      "artifact": "packages/sovvie/b226/1.0.0.tar.gz",
+      "published": "2026-04-03T17:47:56.688Z"
+    }
+  }
+}

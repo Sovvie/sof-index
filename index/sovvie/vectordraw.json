@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "vectordraw",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "JS like CTX library for Vector drawing.",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:865cc953b93d5f901f5c28e3100eb2a93751a21ff1013e8083712a10f57ab9bb",
+      "artifact": "packages/sovvie/vectordraw/1.0.0.tar.gz",
+      "published": "2026-04-03T19:51:48.874Z"
+    }
+  }
+}

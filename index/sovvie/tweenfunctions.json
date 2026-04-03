@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "tweenfunctions",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "ReplicatedStorage package: TweenFunctions",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:47a927a6f802fb2af8c0aabc856866db7f4ae2574b4ccea2f969872b1f6e8505",
+      "artifact": "packages/sovvie/tweenfunctions/1.0.0.tar.gz",
+      "published": "2026-04-03T09:52:42.555Z"
+    }
+  }
+}

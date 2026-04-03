@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "lerps",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "ReplicatedStorage package: Lerps",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:f910908033622611ad0601c9290c02e0b4702786dcbef9501e2422aa868f999a",
+      "artifact": "packages/sovvie/lerps/1.0.0.tar.gz",
+      "published": "2026-04-03T09:52:44.567Z"
+    }
+  }
+}

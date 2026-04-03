@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "lerps",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Type-aware interpolation library returning lerp closures for all common Roblox data types. Color3 uses perceptual CIELUV blending; strings support progressive reveal or clock-format HH:MM:SS wrapping. Covers CFrame, UDim/UDim2, Vector2/3, NumberSequence, ColorSequence, PhysicalProperties, Ray, Rect, and Region3.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:5e1574fd32b7b355c7e7a6635aa3f8ad9659471993a518f4316fd79e3e66baae",
+      "artifact": "packages/sovvie/lerps/1.0.0.tar.gz",
+      "published": "2026-04-03T18:01:17.044Z"
+    }
+  }
+}

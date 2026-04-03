@@ -1,0 +1,21 @@
+{
+  "scope": "sovvie",
+  "name": "silk",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Fluid UI animation and interaction toolkit. Provides buttonAnimation (hover/press/select scale and rotation), fadeIn/fadeOut/toast with grow effects, baked gradient animations (color cycle, offset scroll, rotation), seamless background looping, and GuiButton alternative input binding.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {
+        "Butler": "sovvie/butler@^1.0.0",
+        "Signal": "sovvie/signal@^1.0.0"
+      },
+      "checksum": "sha256:fcc46ae33d477c9f2606bb98bd319586436f991ac31f4c018e9efbdbea18304f",
+      "artifact": "packages/sovvie/silk/1.0.0.tar.gz",
+      "published": "2026-04-03T18:00:51.624Z"
+    }
+  }
+}

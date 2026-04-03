@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "base93",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "High-performance binary-to-text codec using a 93-character printable ASCII alphabet. Encodes 4 bytes into 5 characters with pre-baked pair lookup tables and 16-byte unrolled loops; supports padding for non-multiple-of-4 input lengths.",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:8c2d098a819ba9600f284289ff8a1a7e8f4551d721c17147fb1835b450bd493b",
+      "artifact": "packages/sovvie/base93/1.0.0.tar.gz",
+      "published": "2026-04-03T18:00:29.285Z"
+    }
+  }
+}

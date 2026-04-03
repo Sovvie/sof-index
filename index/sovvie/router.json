@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "router",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "ReplicatedStorage package: Router",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:6d9b4182799a78595db6b5eddeab95963e88eb16ff342a8a7730f7cf8e7293bb",
+      "artifact": "packages/sovvie/router/1.0.0.tar.gz",
+      "published": "2026-04-03T09:52:00.004Z"
+    }
+  }
+}

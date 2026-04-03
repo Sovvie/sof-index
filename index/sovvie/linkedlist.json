@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "linkedlist",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Sentinel-node doubly-linked list with O(1) insertions and removals, supporting PushFront/Back, InsertAfter/Before, Remove, FindRemove, PopFront/Back, forward and reverse iteration, and size tracking.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:b259e7bc8dfc72010d7ec376b0d38f0110ad88d619fe7edada163493a7fa4eab",
+      "artifact": "packages/sovvie/linkedlist/1.0.0.tar.gz",
+      "published": "2026-04-03T17:47:30.460Z"
+    }
+  }
+}

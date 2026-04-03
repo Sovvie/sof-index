@@ -1,0 +1,20 @@
+{
+  "scope": "sovvie",
+  "name": "datasyncer",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Bidirectional delta-based table sync between server and clients. Registers tables on the server, diffs them to produce TableChanges, applies incoming deltas with optional filter callbacks, and provides view/await interfaces for both contexts along with key-change subscriptions.",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {
+        "Signal": "sovvie/signal@^1.0.0"
+      },
+      "checksum": "sha256:282c564fa557ff25c81bb5df4cd223c974834506a5d7c92fd423427b697afdd3",
+      "artifact": "packages/sovvie/datasyncer/1.0.0.tar.gz",
+      "published": "2026-04-03T18:00:40.420Z"
+    }
+  }
+}

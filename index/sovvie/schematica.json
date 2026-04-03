@@ -1,0 +1,23 @@
+{
+  "scope": "sovvie",
+  "name": "schematica",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "View-based server-to-client data replication framework. Associates typed property tables with numeric keys, batches dirty deltas at 15 Hz, fires property-change signals, and supports per-object client lists, server/client events, and Stream-valued properties.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {
+        "Butler": "sovvie/butler@^1.0.0",
+        "DataSyncer": "sovvie/datasyncer@^1.0.0",
+        "Signal": "sovvie/signal@^1.0.0",
+        "Stream": "sovvie/stream@^1.0.0"
+      },
+      "checksum": "sha256:d117239f7561294f92dfa047278e7060a9b0785e20307eefc2f3758c1ae2dfbb",
+      "artifact": "packages/sovvie/schematica/1.0.0.tar.gz",
+      "published": "2026-04-03T10:06:01.213Z"
+    }
+  }
+}

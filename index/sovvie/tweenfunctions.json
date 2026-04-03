@@ -1,0 +1,21 @@
+{
+  "scope": "sovvie",
+  "name": "tweenfunctions",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Comprehensive easing-function library for use with TweenService-style alpha values. Includes quad/cubic/quart/quint/sine/expo/circ/elastic/bounce/back/spring variants plus smooth, smoother, wiggle, bezier-based Material Design, Microsoft Fabric, UWP, IBM Carbon, Firefox, and Mozilla curves.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {
+        "Bezier": "sovvie/bezier@^1.0.0"
+      },
+      "checksum": "sha256:135762f81a85740a6e93a71c3a894bd99053a1ad8f78fc0630573e12422bef15",
+      "artifact": "packages/sovvie/tweenfunctions/1.0.0.tar.gz",
+      "published": "2026-04-03T17:48:33.672Z"
+    }
+  }
+}

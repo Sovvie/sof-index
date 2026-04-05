@@ -1,0 +1,22 @@
+{
+  "scope": "sovvie",
+  "name": "springy",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Spring-based property animator for Roblox instances. Enforces one active spring per instance and converts tween-duration and friction to damping and frequency via SecondsToSpringParams. Exposes Start, StartSeconds, Seek, From, FromSeconds, and Stop methods, fires a Signal-based completion callback when the spring settles, and auto-destroys via Butler if never started within one second.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {
+        "Signal": "sovvie/signal@^1.0.0",
+        "Butler": "sovvie/butler@^1.0.0"
+      },
+      "checksum": "sha256:911e4cf7ea87a9e68d46dcc860688aa12f13f343c806328b669d3e28cf948d1b",
+      "artifact": "packages/sovvie/springy/1.0.0.tar.gz",
+      "published": "2026-04-05T00:42:29.735Z"
+    }
+  }
+}

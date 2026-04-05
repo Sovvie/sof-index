@@ -1,0 +1,22 @@
+{
+  "scope": "sovvie",
+  "name": "network",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Buffer-batched multiplexed networking layer over a single Reliable and Unreliable RemoteEvent pair. Registers named events and request/response functions by numeric ID, syncs the registry to joining clients, flushes queued packets at 61 Hz, and provides FireClient/FireAllClients/FireExcept/FireServer plus InvokeServer/InvokeClient with configurable timeouts.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {
+        "Signal": "sovvie/signal@^1.0.0",
+        "Thread": "sovvie/thread@^1.0.0"
+      },
+      "checksum": "sha256:50e7f37dc14ae1881f0ba95827851e3705d16c2480642da6304cea1e1ea0a669",
+      "artifact": "packages/sovvie/network/1.0.0.tar.gz",
+      "published": "2026-04-05T21:02:22.611Z"
+    }
+  }
+}

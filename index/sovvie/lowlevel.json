@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "lowlevel",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Low-level buffer and bit-manipulation toolkit. Provides auto-growing buffer read/write for u8/u16/u32/i8/i16/i32/f32/f64, VLQ encode/decode, dispatch tables, range and VLQ codec factories, fixed-string codecs, arithmetic/memory/bits sub-modules (popcount, parity, sign-extend, bounds checks, power-of-two helpers), orderedHash, memoize, id allocator, metadata store, template cloner, and aliasStdlib.",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:313e85e5dbaec5806bbf6ce3247cfa67ac775bd0089945210bc5b748736633fc",
+      "artifact": "packages/sovvie/lowlevel/1.0.0.tar.gz",
+      "published": "2026-04-05T01:02:07.742Z"
+    }
+  }
+}

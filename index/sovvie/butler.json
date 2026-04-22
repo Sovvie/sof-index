@@ -27,6 +27,19 @@
       "checksum": "sha256:b64574a8f8253e5f9d87ca34be6c5b7dc319ef14a6d23b86a33d20571fd9ce39",
       "artifact": "packages/sovvie/butler/1.1.0.tar.gz",
       "published": "2026-04-15T17:11:34.989Z"
+    },
+    "1.1.1": {
+      "realm": "shared",
+      "description": "Lightweight cleanup container (Maid/Trove pattern). Tracks Instances, RBXScriptConnections, coroutine threads, functions, and tables, cleaning each with the appropriate method on Destroy or Clean.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:7d224a84c4ad4e54952e24583b73c75afed09038c56207270051d8a0998f23bd",
+      "artifact": "packages/sovvie/butler/1.1.1.tar.gz",
+      "published": "2026-04-22T19:12:45.126Z"
     }
   }
 }

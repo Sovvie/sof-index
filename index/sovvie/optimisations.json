@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "optimisations",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Performance helpers (box queries and related utilities).",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:fcda2d81a73cc6fa9a51828abc494a9e1d9ed469fb0f72ee3dd76a35e0edcb2b",
+      "artifact": "packages/sovvie/optimisations/1.0.0.tar.gz",
+      "published": "2026-09-26T11:01:19.384Z"
+    }
+  }
+}

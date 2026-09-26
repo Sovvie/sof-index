@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "meshemitter",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Particle emitter that emits meshes.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:c8b81208e8649cb3cca716395db8e9b143a1245363ad28f33ec844e3013c43e8",
+      "artifact": "packages/sovvie/meshemitter/1.0.0.tar.gz",
+      "published": "2026-09-26T11:00:56.285Z"
+    }
+  }
+}

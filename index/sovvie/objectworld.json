@@ -40,6 +40,26 @@
       "checksum": "sha256:a807cbf7b92829f8598bac0c661b8453f674da5b1ea90c8195e80838833b967b",
       "artifact": "packages/sovvie/objectworld/1.0.1.tar.gz",
       "published": "2026-04-04T00:07:01.270Z"
+    },
+    "2.0.0": {
+      "realm": "shared",
+      "description": "Replicated world objects with batched protocol and delta-synced properties.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {
+        "BufferFSM": "sovvie/bufferfsm@^1.1.0",
+        "Butler": "sovvie/butler@^2.0.0",
+        "Nexus": "sovvie/nexus@^5.0.0",
+        "QuadTree": "sovvie/quadtree@^1.1.0",
+        "Signal": "sovvie/signal@^1.1.0",
+        "b226": "sovvie/b226@^1.0.0"
+      },
+      "checksum": "sha256:77363b4ffe379e90897e2d0cc1e4dee1420e5d3ea6947bd1d75b907641d7b782",
+      "artifact": "packages/sovvie/objectworld/2.0.0.tar.gz",
+      "published": "2026-09-26T11:01:11.753Z"
     }
   }
 }

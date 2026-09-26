@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "parallel",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Helpers for running work on Actors in parallel Luau.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:4cc4ea3b4c1d747789113c877d8dcde37e0be507dfac38fc6e3619ca3a2dc2f7",
+      "artifact": "packages/sovvie/parallel/1.0.0.tar.gz",
+      "published": "2026-09-26T11:01:30.485Z"
+    }
+  }
+}

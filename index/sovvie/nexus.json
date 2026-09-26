@@ -16,6 +16,18 @@
       "checksum": "sha256:c1f58cb709b0a0117703fe50be73f3771ae325964a0212ffaf45575f03e5f334",
       "artifact": "packages/sovvie/nexus/1.0.0.tar.gz",
       "published": "2026-04-03T18:00:25.063Z"
+    },
+    "5.0.0": {
+      "realm": "shared",
+      "description": "Data suite: collections, documents, shared state, mirrors, leaderboards and networking (DataSyncer).",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:386e5020ccaaa47054179d13bcad732b01323731bedfcdc2cea5bc6c174fbc5a",
+      "artifact": "packages/sovvie/nexus/5.0.0.tar.gz",
+      "published": "2026-09-26T11:02:24.386Z"
     }
   }
 }

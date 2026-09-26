@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "editableassetcache",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Caches EditableImage/EditableMesh assets so they're created once and shared.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:968aebead33e792570a8f21527b27d8d3bc946065b5d106fb0c0d28b74d4ce96",
+      "artifact": "packages/sovvie/editableassetcache/1.0.0.tar.gz",
+      "published": "2026-09-26T11:00:43.879Z"
+    }
+  }
+}

@@ -17,6 +17,19 @@
       "checksum": "sha256:50e7f37dc14ae1881f0ba95827851e3705d16c2480642da6304cea1e1ea0a669",
       "artifact": "packages/sovvie/network/1.0.0.tar.gz",
       "published": "2026-04-05T21:02:22.611Z"
+    },
+    "2.0.0": {
+      "realm": "shared",
+      "description": "Remote-based networking layer.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:96178aebed5d9327e62c45f83d2cdbcc3e72ab22c30d7f28a15a827c8c9b0e97",
+      "artifact": "packages/sovvie/network/2.0.0.tar.gz",
+      "published": "2026-09-26T11:01:07.912Z"
     }
   }
 }

@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "deepdelta",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Deep diffs and patches between nested tables.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:65971de1d25235af7e8118659421f5e8518704e536ac458244722c44eeaf7709",
+      "artifact": "packages/sovvie/deepdelta/1.0.0.tar.gz",
+      "published": "2026-09-26T11:00:36.305Z"
+    }
+  }
+}

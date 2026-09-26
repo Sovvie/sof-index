@@ -1,0 +1,19 @@
+{
+  "scope": "sovvie",
+  "name": "windshake",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "High performance wind effect for leaves and foliage.",
+      "license": "",
+      "authors": [
+        "boatbomber",
+        "CloneTrooper1019"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:b51256e7e388b5a46a96218f6560abac59e6cee2460b157095c1e776810ada2c",
+      "artifact": "packages/sovvie/windshake/1.0.0.tar.gz",
+      "published": "2026-09-26T11:02:13.554Z"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "packet",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Networking library with typed, buffer-serialized packets.",
+      "license": "",
+      "authors": [
+        "Suphi"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:6f8edeee4198ba6186631187c6d55632f0cc82b7903ad2add5d5b9f8512b1784",
+      "artifact": "packages/sovvie/packet/1.0.0.tar.gz",
+      "published": "2026-09-26T11:01:23.230Z"
+    }
+  }
+}

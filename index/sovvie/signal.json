@@ -14,6 +14,19 @@
       "checksum": "sha256:9088cfc8daa9b31982c5ffd8d5c14661e7719dbd30623fc03140213d917859ad",
       "artifact": "packages/sovvie/signal/1.0.0.tar.gz",
       "published": "2026-04-03T18:01:03.795Z"
+    },
+    "1.1.0": {
+      "realm": "shared",
+      "description": "High-performance typed signal using a doubly-linked connection list and a coroutine thread pool. Supports Connect (with optional bound varargs), Once, Wait, Fire, DisconnectAll, Destroy, and Signal.wrap for bridging RBXScriptSignals.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:5fd0f07b4c9555e193d34a46853547ad6b08c00eefd733293c799381c0aacd93",
+      "artifact": "packages/sovvie/signal/1.1.0.tar.gz",
+      "published": "2026-09-26T11:01:57.518Z"
     }
   }
 }

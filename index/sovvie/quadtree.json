@@ -14,6 +14,19 @@
       "checksum": "sha256:4ac8da57b0dd1250183aa426a127c5fd2a34cf36b182d7d5ed9b05b43da6339c",
       "artifact": "packages/sovvie/quadtree/1.0.0.tar.gz",
       "published": "2026-04-04T00:06:21.127Z"
+    },
+    "1.1.0": {
+      "realm": "shared",
+      "description": "Generic 2D quadtree for spatial partitioning of Vector2-positioned nodes. Supports Insert/BulkInsert (Morton-code sorted), Locate, QueryRange with optional predicate, Remove, Clear, GetDepth, and Visualize. Includes a companion Rectangle type with Contains/Intersects checks and a fromXZRadius helper for XZ-plane queries.",
+      "license": "",
+      "authors": [
+        "Sovereignty",
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:2e3210b3ca1f4ceba375cd549549c09174f29db3354d9a579735f132b4c25578",
+      "artifact": "packages/sovvie/quadtree/1.1.0.tar.gz",
+      "published": "2026-09-26T11:01:42.019Z"
     }
   }
 }

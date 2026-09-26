@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "compressionlibraries",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Compression algorithms for strings and buffers.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:26b888aa9c1df2b8abb7f1f74f7a91466fc3e3c392253068b3733f1184f77bfb",
+      "artifact": "packages/sovvie/compressionlibraries/1.0.0.tar.gz",
+      "published": "2026-09-26T11:00:28.970Z"
+    }
+  }
+}

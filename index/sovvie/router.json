@@ -16,6 +16,21 @@
       "checksum": "sha256:ff3aeb618bb83aa72b0ab6b486a11e4c2489f19b5d00793d66ec1464431ae630",
       "artifact": "packages/sovvie/router/1.0.0.tar.gz",
       "published": "2026-04-03T18:00:27.272Z"
+    },
+    "2.0.0": {
+      "realm": "shared",
+      "description": "UI navigation with animated transitions, Transition specs and UI Labs stories.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {
+        "Butler": "sovvie/butler@^2.0.0",
+        "Stream": "sovvie/stream@^2.0.0"
+      },
+      "checksum": "sha256:a8385e770d15a854ed2152d56434156245dfd89f7e8f8269aadef842237ba59e",
+      "artifact": "packages/sovvie/router/2.0.0.tar.gz",
+      "published": "2026-09-26T11:01:50.416Z"
     }
   }
 }

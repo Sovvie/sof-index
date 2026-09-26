@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "octree",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Octree spatial index.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:d247d2e4131c0cfa41114f71aebc4e9b90c6a3e4b9110b8907d496e144296ec8",
+      "artifact": "packages/sovvie/octree/1.0.0.tar.gz",
+      "published": "2026-09-26T11:01:15.568Z"
+    }
+  }
+}

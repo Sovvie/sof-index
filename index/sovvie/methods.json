@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "methods",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Shared Instance helpers (removal detection and friends) used by other packages.",
+      "license": "",
+      "authors": [
+        "Sovereignty"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:c6ad17ea5f9aaef7e8ca111f44f8e2635881a85d1e063fc6bc24b17dcda0efa2",
+      "artifact": "packages/sovvie/methods/1.0.0.tar.gz",
+      "published": "2026-09-26T11:01:03.980Z"
+    }
+  }
+}

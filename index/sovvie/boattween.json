@@ -1,0 +1,18 @@
+{
+  "scope": "sovvie",
+  "name": "boattween",
+  "versions": {
+    "1.0.0": {
+      "realm": "shared",
+      "description": "Tweening library with extra easing styles and step callbacks (TweenService2).",
+      "license": "",
+      "authors": [
+        "boatbomber"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:62d3abfe0fc8590c0e246a17ae03124f9c465cbdbc708412f67bed70496d61fe",
+      "artifact": "packages/sovvie/boattween/1.0.0.tar.gz",
+      "published": "2026-09-26T11:00:16.728Z"
+    }
+  }
+}

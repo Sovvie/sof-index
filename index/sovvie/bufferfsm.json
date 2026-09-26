@@ -13,6 +13,18 @@
       "checksum": "sha256:5676a37ae077417e12e4b6b69738d5b7a72f9db795305e8a3e3e955819f1a874",
       "artifact": "packages/sovvie/bufferfsm/1.0.0.tar.gz",
       "published": "2026-04-03T18:00:22.685Z"
+    },
+    "1.1.0": {
+      "realm": "shared",
+      "description": "Compact buffer-backed finite state machine storing the current state ID and entry timestamp in 5 bytes. Supports optional transition tables, GetState/GetDuration, SetState, and string-based Serialize/Deserialize for network transport.",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:6742b2934fdb70570564e7ef470a9d820dd96c11a64c43ffb0eb5040396a8a92",
+      "artifact": "packages/sovvie/bufferfsm/1.1.0.tar.gz",
+      "published": "2026-09-26T11:00:20.901Z"
     }
   }
 }

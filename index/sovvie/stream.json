@@ -13,6 +13,18 @@
       "checksum": "sha256:eda487c9cbd0134d87d62f39ca87fcc79c35ee60cb3f540876690c88bef743cc",
       "artifact": "packages/sovvie/stream/1.0.0.tar.gz",
       "published": "2026-04-03T18:00:13.172Z"
+    },
+    "2.0.0": {
+      "realm": "shared",
+      "description": "Reactive values, computed values, tweens and springs, and Instance bindings.",
+      "license": "",
+      "authors": [
+        "Proffessor739"
+      ],
+      "dependencies": {},
+      "checksum": "sha256:28796eb17adf6cd39b7b717803b934df09b6373ffc5582177fa70acc352bc44a",
+      "artifact": "packages/sovvie/stream/2.0.0.tar.gz",
+      "published": "2026-09-26T11:02:01.697Z"
     }
   }
 }
